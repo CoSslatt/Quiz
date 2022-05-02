@@ -3,7 +3,7 @@
 ---
 
 ### Working features:
-- Choosing answer
+- Choosing an answer
 - Answers counter
 - Card animation
 
