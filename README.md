@@ -14,6 +14,4 @@
 
 ---
 
-### I've learned:
-- 🔰 JS import/export
-- 🔰 JS Object Literals
+https://narcikss.github.io/Quiz/
