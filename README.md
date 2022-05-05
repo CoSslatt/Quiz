@@ -14,4 +14,4 @@
 
 ---
 
-https://narcikss.github.io/Quiz/
+https://narcikss.github.io/Quiz/site
