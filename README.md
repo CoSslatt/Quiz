@@ -9,6 +9,11 @@
 
 ---
 
+### Technologies I used:
+- HTML
+- SCSS
+- Javascript
+
 ### Status:
 - Done
 
