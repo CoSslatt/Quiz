@@ -21,4 +21,4 @@
 
 ---
 
-https://narcikss.github.io/Quiz/site
+https://cosslatt.github.io/Quiz/site
